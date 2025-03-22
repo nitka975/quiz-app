@@ -20,14 +20,14 @@ const qBank = [
     {
         id: 4,
         question: "How many seasons in jujutsu kaisen?",
-        options: ["3", "1", "4", "1"],
-        answer: "1"
+        options: ["3", "2", "4", "1"],
+        answer: "2"
     },
     {
         id: 5,
         question: "What time of day is 15:00?",
         options: ["morning", "day", "evening", "night"],
-        answer: "8"
+        answer: "day"
     },
     {
         id: 6,
